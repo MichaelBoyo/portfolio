@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.c77bfa06.css",
-    "main.js": "/portfolio/static/js/main.ffe04ce0.js",
+    "main.js": "/portfolio/static/js/main.89446670.js",
     "static/js/787.a2cb61a6.chunk.js": "/portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/logo-p.png": "/portfolio/static/media/logo-p.9336b6625e9717986ea5.png",
     "static/media/Michael_Boyo_CV.pdf": "/portfolio/static/media/Michael_Boyo_CV.725e9576f09ee06329ba.pdf",
@@ -13,11 +13,11 @@
     "static/media/CoolveticaRg-Regular.woff2": "/portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/portfolio/index.html",
     "main.c77bfa06.css.map": "/portfolio/static/css/main.c77bfa06.css.map",
-    "main.ffe04ce0.js.map": "/portfolio/static/js/main.ffe04ce0.js.map",
+    "main.89446670.js.map": "/portfolio/static/js/main.89446670.js.map",
     "787.a2cb61a6.chunk.js.map": "/portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c77bfa06.css",
-    "static/js/main.ffe04ce0.js"
+    "static/js/main.89446670.js"
   ]
 }
