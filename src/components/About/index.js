@@ -1,15 +1,10 @@
 import {
-  faAngular,
-  faCss3,
   faGitAlt,
   faGolang,
-  faHtml5,
   faJava,
   faJs,
-  faJsSquare,
   faNode,
   faPython,
-  faReact,
 } from '@fortawesome/free-brands-svg-icons'
 import Loader from 'react-loaders'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
