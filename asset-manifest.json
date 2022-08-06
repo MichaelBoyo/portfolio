@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.c77bfa06.css",
+    "main.js": "/portfolio/static/js/main.ffe04ce0.js",
+    "static/js/787.a2cb61a6.chunk.js": "/portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/logo-p.png": "/portfolio/static/media/logo-p.9336b6625e9717986ea5.png",
+    "static/media/Michael_Boyo_CV.pdf": "/portfolio/static/media/Michael_Boyo_CV.725e9576f09ee06329ba.pdf",
+    "static/media/helvetica-neu.ttf": "/portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff": "/portfolio/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
+    "static/media/logo_sub.png": "/portfolio/static/media/logo_sub.5be50b87f6b0bf626d3f.png",
+    "static/media/LaBelleAurore.woff2": "/portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff": "/portfolio/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
+    "static/media/CoolveticaRg-Regular.woff2": "/portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/portfolio/index.html",
+    "main.c77bfa06.css.map": "/portfolio/static/css/main.c77bfa06.css.map",
+    "main.ffe04ce0.js.map": "/portfolio/static/js/main.ffe04ce0.js.map",
+    "787.a2cb61a6.chunk.js.map": "/portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c77bfa06.css",
+    "static/js/main.ffe04ce0.js"
+  ]
+}
