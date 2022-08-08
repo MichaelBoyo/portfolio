@@ -9,7 +9,7 @@ import {
 import Loader from 'react-loaders'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import './index.scss'
-import myCv from './Michael_Boyo_CV.pdf'
+import myCv from './Resume.pdf'
 
 const About = () => {
  
@@ -34,7 +34,7 @@ const About = () => {
             person, father of a beautiful daughter, a sports fanatic,
             photography enthusiast, and tech-obsessed!!!
           </p>
-          <a href={myCv} className='dlod' download="Michael_Boyo_CV.pdf"> Download my Cv here </a>
+          <a href={myCv} className='dlod' download="Resume.pdf"> Download my Cv here </a>
         </div>
         
 
